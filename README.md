@@ -1,5 +1,5 @@
 # NeurIPS---Ariel-Data-Challenge-2024  
-This repository contains my solution (4th place, solo gold medal) for the Kaggle competition of [NeurIPS - Ariel Data Challenge 2024]([https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim](https://www.kaggle.com/competitions/ariel-data-challenge-2024/discussion/543776)). See also my summary [on Kaggle]().  
+This repository contains my solution (4th place, solo gold medal) for the Kaggle competition of [NeurIPS - Ariel Data Challenge 2024](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim](https://www.kaggle.com/competitions/ariel-data-challenge-2024/discussion/543776). See also my summary [on Kaggle]().  
 
 # The steps to reproduce my solution
 ## 1. Preprocessing
