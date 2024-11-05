@@ -7,6 +7,6 @@ This repository contains my solution (4th place, solo gold medal) for the Kaggle
 ## 2. Tensorflow regression models  
 [First TF model](https://www.kaggle.com/code/shlomoron/adc24-model-2) and [second TF model](https://www.kaggle.com/code/shlomoron/adc24-model-3).  
 ## 3. Postprocessing
-[First model (classical polyfit) postprocessing](https://www.kaggle.com/code/shlomoron/adc24-model-1-postprocessing), [First TF mpdel postprocessing](https://www.kaggle.com/code/shlomoron/adc24-model-2-postprocessing) and [second TF model postprocessing](https://www.kaggle.com/code/shlomoron/adc24-model-3-postprocessing).
+[First model (classical polyfit) postprocessing](https://www.kaggle.com/code/shlomoron/adc24-model-1-postprocessing), [first TF mpdel postprocessing](https://www.kaggle.com/code/shlomoron/adc24-model-2-postprocessing) and [second TF model postprocessing](https://www.kaggle.com/code/shlomoron/adc24-model-3-postprocessing).
 ## 4. Ensembling and submission
 [Here](https://www.kaggle.com/code/shlomoron/adc24-ensemble).  
