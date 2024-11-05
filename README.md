@@ -1,5 +1,5 @@
 # NeurIPS---Ariel-Data-Challenge-2024  
-This repository contains my solution (4th place, solo gold medal) for the Kaggle competition of [NeurIPS - Ariel Data Challenge 2024](https://www.kaggle.com/competitions/ariel-data-challenge-2024/overview). See also my summary [on Kaggle]().  
+This repository contains my solution (4th place, solo gold medal) for the Kaggle competition of [NeurIPS - Ariel Data Challenge 2024](https://www.kaggle.com/competitions/ariel-data-challenge-2024/overview). See also my summary [on Kaggle](https://www.kaggle.com/competitions/ariel-data-challenge-2024/discussion/544471).  
 
 # The steps to reproduce my solution
 ## 1. Preprocessing
